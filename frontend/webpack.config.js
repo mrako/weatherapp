@@ -4,12 +4,12 @@ const TransferWebpackPlugin = require('transfer-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: './index.jsx',
+  entry: './src/index.jsx',
   resolve: {
     extensions: ['.js', '.jsx'],
   },
   devServer: {
-    contentBase: 'public',
+    contentBase: 'src/public',
     historyApiFallback: true,
     port: 8000,
     host: '0.0.0.0',
@@ -32,11 +32,11 @@ module.exports = {
     ],
   },
   plugins: [
-    new HtmlWebpackPlugin({ template: 'public/index.html' }),
+    new HtmlWebpackPlugin({ template: 'src/public/index.html' }),
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NoEmitOnErrorsPlugin(),
     new TransferWebpackPlugin([
-      { from: 'public' },
+      { from: 'src/public' },
     ], '.'),
     new webpack.DefinePlugin({
       'process.env': {

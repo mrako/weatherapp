@@ -5,9 +5,9 @@
   "author": "Marko Klemetti <marko.klemetti@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "node index.js",
-    "dev": "DEBUG=weathermap ./node_modules/.bin/nodemon index.js",
-    "lint": "eslint **/*.js"
+    "start": "node src/index.js",
+    "dev": "DEBUG=weathermap ./node_modules/.bin/nodemon src/index.js",
+    "lint": "eslint src/*.js"
   },
   "dependencies": {
     "debug": "^2.6.3",
