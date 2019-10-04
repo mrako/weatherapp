@@ -30,7 +30,7 @@ Here are some things in different categories that you can do to make the app bet
 
 ### Docker
 
-Docker containers are central to any modern development initiative. By knowing how to set up your application into containers and make them interact with each other, you have learned a highly useful skill.
+*Docker containers are central to any modern development initiative. By knowing how to set up your application into containers and make them interact with each other, you have learned a highly useful skill.*
 
 * Add **Dockerfile**'s in the *frontend* and the *backend* directories to run them virtually on any environment having [docker](https://www.docker.com/) installed. It should work by saying e.g. `docker build -t weatherapp_backend . && docker run --rm -i -p 9000:9000 --name weatherapp_backend -t weatherapp_backend`. If it doesn't, remember to check your api key first.
 
@@ -40,7 +40,7 @@ Docker containers are central to any modern development initiative. By knowing h
 
 ### Node and React development
 
-Node and React applications are highly popular technologies. Understanding them will give you an advantage in front- and back-end development projects. 
+*Node and React applications are highly popular technologies. Understanding them will give you an advantage in front- and back-end development projects.*
 
 * The application now only reports the current weather. It should probably report the forecast e.g. a few hours from now. (tip: [openweathermap api](https://openweathermap.org/forecast5))
 
@@ -50,7 +50,7 @@ Node and React applications are highly popular technologies. Understanding them 
 
 ### Testing
 
-Test automation is key in developing good quality applications. Finding bugs in early stages of development is valuable in any software development project.
+*Test automation is key in developing good quality applications. Finding bugs in early stages of development is valuable in any software development project.*
 
 * There are no tests. Where are the tests? (tip: [mocha](https://mochajs.org/))
 
@@ -58,12 +58,12 @@ Test automation is key in developing good quality applications. Finding bugs in 
 
 ### Cloud
 
-The biggest trend of recent times is developing, deploying and hosting your applications in cloud. Knowing cloud -related technologies is essential for modern IT specialists.
+*The biggest trend of recent times is developing, deploying and hosting your applications in cloud. Knowing cloud -related technologies is essential for modern IT specialists.*
 
 * Set up the weather service in a free cloud hosting service, e.g. [AWS](https://aws.amazon.com/free/) or [Google Cloud](https://cloud.google.com/free/).
 
 ### Ansible
 
-Automating deployment processes saves a lot of valuable time and reduces chances of costly errors. Infrastructure as Code removes manual steps and allows people to concentrate on core activities.
+*Automating deployment processes saves a lot of valuable time and reduces chances of costly errors. Infrastructure as Code removes manual steps and allows people to concentrate on core activities.*
 
 * Write [ansible](http://docs.ansible.com/ansible/intro.html) playbooks for installing [docker](https://www.docker.com/) and the app itself.
