@@ -67,3 +67,11 @@ Here are some things in different categories that you can do to make the app bet
 *Automating deployment processes saves a lot of valuable time and reduces chances of costly errors. Infrastructure as Code removes manual steps and allows people to concentrate on core activities.*
 
 * Write [ansible](http://docs.ansible.com/ansible/intro.html) playbooks for installing [docker](https://www.docker.com/) and the app itself.
+
+### Documentation
+
+*Good documentation benefits everyone.*
+
+* Remember to update the README
+
+* Use descriptive names and add comments in the code when necessary
