@@ -54,7 +54,7 @@ Here are some things in different categories that you can do to make the app bet
 
 * Create automated tests for the application. (tip: [mocha](https://mochajs.org/))
 
-* Create Robot Framework integration tests. [robot framework](http://robotframework.org/). Hint: Start by creating a third container that gives expected weather data and direct the backend queries there by redefining the **MAP_ENDPOINT**.
+* Create [Robot Framework](http://robotframework.org/) integration tests . Hint: Start by creating a third container that gives expected weather data and direct the backend queries there by redefining the **MAP_ENDPOINT**.
 
 ### Cloud
 
