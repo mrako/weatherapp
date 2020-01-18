@@ -13,26 +13,26 @@
     "lint": "node_modules/.bin/eslint --ext .js --ext .jsx ."
   },
   "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/polyfill": "^7.6.0",
-    "@babel/preset-env": "^7.6.0",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/polyfill": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.6",
-    "eslint": "^6.4.0",
+    "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.0.1",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-import": "^2.20.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react": "^7.18.0",
     "html-webpack-plugin": "^3.2.0",
     "transfer-webpack-plugin": "^0.1.4",
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.2"
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
   }
 }
