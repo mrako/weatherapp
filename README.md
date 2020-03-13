@@ -82,7 +82,7 @@ Here are some things in different categories that you can do to make the app bet
 
 * The app must be ready to deploy and easy to deploy to your local machine with and without Docker. 
 
-* Instructions to run the app should also be included because a customer would expect this also.
+* Detailed instructions to run the app should be included in your forked version because a customer would expect detailed instructions also.
 
 * Show us your awesome architectural skills! Structure the code and files in a modular and logical fashion for extra points.
 
