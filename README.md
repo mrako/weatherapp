@@ -78,12 +78,14 @@ Here are some things in different categories that you can do to make the app bet
 
 ### ProTips
 
-* When you are developing the application imagine that you are making an application for a customer so the app must work flawlessly.
+* When you are coding the application imagine that you are a freelancer developer developing an application for an important customer.
 
-* The app must be ready to deploy and easy to deploy to your local machine with and without Docker. 
+* The app must ready deploy and work flawlessly.
+
+* The app must be easy to deploy to your local machine with and without Docker. 
 
 * Detailed instructions to run the app should be included in your forked version because a customer would expect detailed instructions also.
 
-* Show us your awesome architectural skills! Structure the code and files in a modular and logical fashion for extra points.
+* Structure the code and project folder structure in a modular and logical fashion for extra points.
 
-* Any bugs or weirdness in the operating logic will cause a deduction in assignment points!
+* Try to avoid any bugs or weirdness in the operating logic.
