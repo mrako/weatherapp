@@ -75,3 +75,15 @@ Here are some things in different categories that you can do to make the app bet
 * Remember to update the README
 
 * Use descriptive names and add comments in the code when necessary
+
+### Pro-tips
+
+* When you are developing the application imagine that you are making an application for a customer so the app must work flawlessly.
+
+* The app must be ready to deploy and easy to deploy to your local machine with and without Docker. 
+
+* Instructions to run the app should also be included because a customer would expect this also.
+
+* Show us your awesome architectural skills! Structure the code and files in a modular and logical fashion for extra points.
+
+* Any bugs or weirdness in the operating logic will cause a deduction in assignment points!
