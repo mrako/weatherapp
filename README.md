@@ -76,7 +76,7 @@ Here are some things in different categories that you can do to make the app bet
 
 * Use descriptive names and add comments in the code when necessary
 
-### Pro-tips
+### ProTips
 
 * When you are developing the application imagine that you are making an application for a customer so the app must work flawlessly.
 
