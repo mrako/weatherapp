@@ -75,3 +75,17 @@ Here are some things in different categories that you can do to make the app bet
 * Remember to update the README
 
 * Use descriptive names and add comments in the code when necessary
+
+### ProTips
+
+* When you are coding the application imagine that you are a freelancer developer developing an application for an important customer.
+
+* The app must be ready to deploy and work flawlessly.
+
+* The app must be easy to deploy to your local machine with and without Docker. 
+
+* Detailed instructions to run the app should be included in your forked version because a customer would expect detailed instructions also.
+
+* Structure the code and project folder structure in a modular and logical fashion for extra points.
+
+* Try to avoid any bugs or weirdness in the operating logic.
