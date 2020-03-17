@@ -80,7 +80,7 @@ Here are some things in different categories that you can do to make the app bet
 
 * When you are coding the application imagine that you are a freelancer developer developing an application for an important customer.
 
-* The app must ready deploy and work flawlessly.
+* The app must be ready to deploy and work flawlessly.
 
 * The app must be easy to deploy to your local machine with and without Docker. 
 
