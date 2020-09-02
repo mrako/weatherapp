@@ -23,7 +23,7 @@ class Weather extends React.Component {
     };
   }
 
-  async componentWillMount() {
+  async componentDidMount() {
     const weather = await getWeatherFromApi();
     this.setState({icon: weather.icon.slice(0, -1)});
   }
